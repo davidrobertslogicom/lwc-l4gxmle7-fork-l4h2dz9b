@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/davidrobertslogicom.lwc-l4gxmle7-fork-l4h2dz9b",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve vUMflIgTbMc24YttpvA3 --open"
+  }
+}
